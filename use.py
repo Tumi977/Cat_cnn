@@ -95,6 +95,7 @@ def predict_image(image_path):
     print("==============================================")
 
 
-TEST_IMAGE_PATH = r'F:\Cat_cnn\D2.jpg'
+TEST_IMAGE_PATH = r'YOUR_PATH.jpg'
 
 predict_image(TEST_IMAGE_PATH)
+
